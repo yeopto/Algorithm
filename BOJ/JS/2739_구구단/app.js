@@ -9,6 +9,6 @@ solution(input1);
 
 function solution(A) {
     for (let i = 1; i < 10; i++) {
-        console.log(`${A} * ${i} = ${A * i}` );
+        console.log(`${A} * ${i} = ${A * i}`);
     }
 }
