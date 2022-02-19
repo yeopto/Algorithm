@@ -8,5 +8,5 @@
 - **BOJ/JS** : BOJ 문제를 JavaScript로 해결한 소스코드 입니다.
   [소스 폴더](./BOJ/JS)
 
-  - **BOJ/C** : BOJ 문제를 Python으로 해결한 소스코드 입니다.
+- **BOJ/C** : BOJ 문제를 Python으로 해결한 소스코드 입니다.
   [소스 폴더](./BOJ/Python/)
