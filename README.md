@@ -10,3 +10,6 @@
 
 - **BOJ/Python** : BOJ 문제를 Python으로 해결한 소스코드 입니다.
   [소스 폴더](./BOJ/Python/)
+
+- **Do-it! Algorithm** : 교재를 통해 Python으로 알고리즘 개념을 정리한 폴더입니다.
+  [소스 폴더](./Do-it!%20Algorithm/)
