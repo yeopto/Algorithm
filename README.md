@@ -13,3 +13,6 @@
 
 - **Do-it! Algorithm** : 교재를 통해 Python으로 알고리즘 개념을 정리한 폴더입니다.
   [소스 폴더](./Do-it!%20Algorithm/)
+
+- **algorithm-study** : "느슨하게 끝까지"라는 모토로 만들어진 알고리즘 스터디에서 푼 문제의 소스코드와 공부한 내용을 정리하는 폴더입니다.
+  [소스 폴더](./algorithm-study/)
