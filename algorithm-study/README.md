@@ -63,6 +63,6 @@
 ### BOJ 11651 - 좌표 정렬하기 2
 - 문제 : https://www.acmicpc.net/problem/11651
 
--[소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/11651-%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%202.py)
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/11651-%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%202.py)
 
 - 풀이 및 느낀점 : 좌표 정렬하기 2 문제입니다. 이번문제는 y값순으로 정렬하면 되는 문제라 애초에 리스트에 넣어줄때 [y, x]로 넣어서 sort하고 출력해주었습니다. 쉬운 문제였고 저희 조 영천님이 heapq로도 풀 수 있대서 heap으로도 풀어봤습니다. 시간과 메모리는 sort쓰는게 더 효율적이었습니다.
