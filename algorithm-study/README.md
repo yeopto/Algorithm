@@ -84,3 +84,12 @@
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/1934-%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.py)
 
 - 풀이 및 느낀점 : 유클리드 호제법으로 두 수의 최대 공약수를 구하고 두 수의 곱에서 최대 공약수를 나누어 최소 공배수를 구했습니다. 유클리드 호제법에 대해 공부하고 문제를 풀어서 어려움 없이 풀 수 있었습니다.
+
+## 22.05.08
+
+### BOJ 9375 - 패션왕 신해빈
+- 문제 : https://www.acmicpc.net/problem/9375
+
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/9375-%ED%8C%A8%EC%85%98%EC%99%95%20%EC%8B%A0%ED%95%B4%EB%B9%88.py)
+
+- 풀이 및 느낀점 : 옷 종류의 수에 안입는 경우 1씩 더해서 다 곱해주고 아무것도 안 입었을때의 경우 하나를 빼주면 됩니다. 경우의 수 구하는 식이 이해가 잘 안갔는데 스터디원의 도움을 받아 풀 수 있었습니다. Counter 모듈로도 풀어봤습니다. 조합이나, 순열 이러한 정수론에 약한 것 같다고 느꼈습니다.
