@@ -1,4 +1,5 @@
-# dfs
+# 순열
+
 import sys
 input = sys.stdin.readline
 
@@ -15,11 +16,10 @@ def dfs():
             s.append(i)
             dfs()
             s.pop()
-
 dfs()
 
 '''
-재귀함수
+# 재귀함수
 
 import sys
 input = sys.stdin.readline
@@ -52,7 +52,7 @@ for i in perm(arr, m):
 '''
 
 '''
-itertools 사용
+# itertools 사용
 
 from itertools import permutations
 import sys

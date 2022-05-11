@@ -1,4 +1,24 @@
-# 백트래킹
+# 조합
+
+import sys
+input = sys.stdin.readline
+
+n, m = map(int, input().split())
+s = []
+
+def dfs(start):
+    if len(s) == m:
+        print(*s)
+        return
+    
+    for i in range(start, n+1):
+        s.append(i)
+        dfs(i + 1)
+        s.pop()
+dfs(1)
+
+'''
+# dfs
 
 import sys
 input = sys.stdin.readline
@@ -16,9 +36,10 @@ arr = [i for i in range(1, n + 1)]
 result = [0] * m
 
 dfs(0, 0)
+'''
 
 '''
-itertools 사용
+# itertools 사용
 
 import sys
 from itertools import combinations
