@@ -129,3 +129,12 @@
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/15652-N%EA%B3%BC%20M(4).py)
 
 - 풀이 및 느낀점 : 중복 조합을 구하는 문제입니다. 조합은 dfs에 1증가한 인자를 넣어주는데 중복 조합은 중복을 허용하니까 i(자기자신) 그대로 인자를 넣어주면 됩니다. 조합을 풀었어서 쉽게 풀 수 있었습니다.
+
+## 22.05.13
+
+### BOJ 9663 - N-Queen
+- 문제 : https://www.acmicpc.net/problem/9663
+
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/9663-N-Queen.py)
+
+- 풀이 및 느낀점 : 백트래킹에 대해 감을 잡은 것 같습니다. 정글 1주차에 접했던 문제인데 정말 이해하기 어려웠었습니다. 하지만 지금은 기초 문제들을 풀고 접해서 그런지 이해를 완전히 해버려서 뿌듯했습니다.
