@@ -138,3 +138,12 @@
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/9663-N-Queen.py)
 
 - 풀이 및 느낀점 : 백트래킹에 대해 감을 잡은 것 같습니다. 정글 1주차에 접했던 문제인데 정말 이해하기 어려웠었습니다. 하지만 지금은 기초 문제들을 풀고 접해서 그런지 이해를 완전히 해버려서 뿌듯했습니다.
+
+## 22.05.14
+
+### BOJ 14888 - 연산자 끼워넣기
+- 문제 : https://www.acmicpc.net/problem/14888
+
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/14888-%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0.py)
+
+- 풀이 및 느낀점 : 백트래킹으로 풀었습니다. 연산자들 갯수 하나씩 지워주면서 깊이 탐색을 했습니다 if문 네개를 쓰는게 포인트라 생각합니다. 오타를 조심해야겠다고 느낀 문제였습니다.
