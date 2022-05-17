@@ -165,3 +165,12 @@
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/1260-DFS%EC%99%80%20BFS.py)
 
 - 풀이 및 느낀점 : 한 달전에 풀었던 문제였습니다. DFS와 BFS 기본 원리를 복기할 수 있는 문제였습니다. 역시 한 달 동안 접하지 않으면 까먹는 것 같습니다. 꾸준히 하다보면 익숙해지겠다는 믿음으로 포기하지 않고 해야겠습니다.
+
+## 22.05.17
+
+### BOJ 2667 - 단지번호붙이기
+- 문제 : https://www.acmicpc.net/problem/2667
+
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/2667-%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.py)
+
+- 풀이 및 느낀점 : 이 문제 또한 한달 전에 풀었습니다. 문제를 풀 때 코드를 외우려고 하는 경향이 아직 있는 것 같습니다. 로직은 아는데 구현능력이 부족하다는 걸 느낀 문제입니다.
