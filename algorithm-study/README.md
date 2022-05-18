@@ -174,3 +174,12 @@
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/2667-%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.py)
 
 - 풀이 및 느낀점 : 이 문제 또한 한달 전에 풀었습니다. 문제를 풀 때 코드를 외우려고 하는 경향이 아직 있는 것 같습니다. 로직은 아는데 구현능력이 부족하다는 걸 느낀 문제입니다.
+
+## 22.05.18
+
+### BOJ 2606 - 바이러스
+- 문제 : https://www.acmicpc.net/problem/2606
+
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/2606-%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.py)
+
+- 풀이 및 느낀점 : 그래프 이론 dfs 기본 문제라고 생각합니다. 알고리즘 기간에 풀었어서 쉽게 풀 수 있었습니다.
