@@ -183,3 +183,7 @@
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/2606-%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.py)
 
 - 풀이 및 느낀점 : 그래프 이론 dfs 기본 문제라고 생각합니다. 알고리즘 기간에 풀었어서 쉽게 풀 수 있었습니다.
+
+## 22.05.19
+
+### BOJ 2
