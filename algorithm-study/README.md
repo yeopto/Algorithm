@@ -186,4 +186,9 @@
 
 ## 22.05.19
 
-### BOJ 2
+### BOJ 1012 - 유기농 배추
+- 문제 : https://www.acmicpc.net/problem/1012
+
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/1012-%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94.py)
+
+- 풀이 및 느낀점 : 단지번호붙이기와 같은 로직입니다. 하나 다른 점이 있는데 백준 문제를 통과하기 위해선 재귀제한을 풀어주면 됩니다.
