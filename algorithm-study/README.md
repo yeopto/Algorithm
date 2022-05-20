@@ -192,3 +192,8 @@
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/1012-%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94.py)
 
 - 풀이 및 느낀점 : 단지번호붙이기와 같은 로직입니다. 하나 다른 점이 있는데 백준 문제를 통과하기 위해선 재귀제한을 풀어주면 됩니다.
+
+## 22.05.20
+
+### Programmers - k진수에서 소수 개수 구하기
+- 문제 : https://programmers.co.kr/learn/courses/30/lessons/92335
