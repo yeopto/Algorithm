@@ -1,8 +1,4 @@
-import sys
 import math
-input = sys.stdin.readline
-
-n, k = map(int, input().split())
 
 def convert_iter(n, k):
     tmp = ''
@@ -36,5 +32,3 @@ def solution(n, k):
     answer = count
 
     return answer
-
-print(solution(n, k))

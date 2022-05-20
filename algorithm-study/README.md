@@ -197,3 +197,7 @@
 
 ### Programmers - k진수에서 소수 개수 구하기
 - 문제 : https://programmers.co.kr/learn/courses/30/lessons/92335
+
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/programmers-k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)
+
+- 풀이 및 느낀점 : 처음으로 45분 시간재고 프로그래머스 문제를 풀어봤습니다. 문제에 대한 전체적인 로직은 생각이 났고, 진법변환에 대해선 참고해서 풀었습니다. 에라토스테네스 체로 소수 판별을 하지않아 시간 초과가 난 테스트케이스와 ''에 대한 예외상황 처리를 하지 않아 런타임 오류가 난 테스트케이스가 있어서 100점을 맞진 못했습니다. 하지만 문제를 접근했다는 것에 뿌듯했습니다. 하지만 아직 부족하기에 더 열심히 해야겠단 생각을 했습니다.
