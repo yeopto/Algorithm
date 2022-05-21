@@ -205,7 +205,7 @@
 
 ## 22.05.21
 
-### BOJ - 연결 요소의 개수
+### BOJ 11724 - 연결 요소의 개수
 - 문제 : https://www.acmicpc.net/problem/11724
 
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/11724-%EC%97%B0%EA%B2%B0%20%EC%9A%94%EC%86%8C%EC%9D%98%20%EA%B0%9C%EC%88%98.py)
