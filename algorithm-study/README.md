@@ -211,3 +211,12 @@
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/11724-%EC%97%B0%EA%B2%B0%20%EC%9A%94%EC%86%8C%EC%9D%98%20%EA%B0%9C%EC%88%98.py)
 
 - 풀이 및 느낀점 : WEEK03때 풀었던 문제 입니다. 시간이 꽤 지나서 복습할겸 풀어봤습니다. 무방향 그래프에서 깊이 탐색하는 문제였습니다. 쉽게 풀었습니다.
+
+## 22.05.22
+
+### BOJ 4963 - 섬의 개수
+- 문제 : https://www.acmicpc.net/problem/4963
+
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/4963-%EC%84%AC%EC%9D%98%20%EA%B0%9C%EC%88%98.py)
+
+- 풀이 및 느낀점 : 지난번에 BFS로 풀었는데 DFS로 풀어봤습니다. 방향벡터에서 조건이 헷갈렸는데 그거 빼곤 쉽게 풀 수 있었습니다.
