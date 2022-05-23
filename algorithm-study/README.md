@@ -220,3 +220,12 @@
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/4963-%EC%84%AC%EC%9D%98%20%EA%B0%9C%EC%88%98.py)
 
 - 풀이 및 느낀점 : 지난번에 BFS로 풀었는데 DFS로 풀어봤습니다. 방향벡터에서 조건이 헷갈렸는데 그거 빼곤 쉽게 풀 수 있었습니다.
+
+## 22.05.23
+
+### BOJ 10026 - 적록색약
+- 문제 : https://www.acmicpc.net/problem/10026
+
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/10026-%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.py)
+
+- 풀이 및 느낀점 : DFS가 확실히 익숙해진 것 같습니다. 원래 input받은 판에서 영역 갯수 구하고 그 다음 visited를 초기화 해준 뒤 적색을 초록색으로 바꿔주고 영역 갯수를 구해서 출력하면 되는 문제입니다. 오타가 있었어서 고생을 좀 했는데 오타 실수를 줄여야겠다고 느낀 문제였습니다.
