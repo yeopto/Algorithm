@@ -1,6 +1,6 @@
 import sys
 input = sys.stdin.readline
-sys.setrecursionlimit(100000)
+sys.setrecursionlimit(10000000)
 
 n = int(input())
 graph = [[] for _ in range(n + 1)]

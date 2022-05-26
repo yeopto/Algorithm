@@ -247,3 +247,12 @@
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/2583-%EC%98%81%EC%97%AD%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)
 
 - 풀이 및 느낀점 : 좌표가 거꾸로 주어져서 어렵게 생각했는데 좌우 대칭이라 생각하고 그대로 DFS하면 되는 문제였습니다.
+
+## 22.05.26
+
+### BOJ 11725 - 트리의 부모 찾기
+- 문제 : https://www.acmicpc.net/problem/11725
+
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/11725-%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EB%B6%80%EB%AA%A8%20%EC%B0%BE%EA%B8%B0.py)
+
+- 풀이 및 느낀점 : 한달 전에 풀었던 문제였습니다. 기본 그래프 dfs 문제입니다. 처음에 조금 헷갈리긴 했는데 괜찮았습니다.
