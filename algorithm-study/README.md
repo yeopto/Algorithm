@@ -257,6 +257,8 @@
 
 - 풀이 및 느낀점 : 한달 전에 풀었던 문제였습니다. 기본 그래프 dfs 문제입니다. 처음에 조금 헷갈리긴 했는데 괜찮았습니다.
 
+## 22.05.27
+
 ### programmers - 거리두기 확인하기
 - 문제 : https://programmers.co.kr/learn/courses/30/lessons/81302#fn1
 
