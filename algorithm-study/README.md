@@ -256,3 +256,10 @@
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/11725-%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EB%B6%80%EB%AA%A8%20%EC%B0%BE%EA%B8%B0.py)
 
 - 풀이 및 느낀점 : 한달 전에 풀었던 문제였습니다. 기본 그래프 dfs 문제입니다. 처음에 조금 헷갈리긴 했는데 괜찮았습니다.
+
+### programmers - 거리두기 확인하기
+- 문제 : https://programmers.co.kr/learn/courses/30/lessons/81302#fn1
+
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/programmers-%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.py)
+
+- 풀이 및 느낀점 : 탐색 문제인거는 파악했고 dfs로 처음에 풀다가 조건들을 어떻게 해줘야할지 헷 갈려서 이것저것 해보다 결국 시간 내에 못 풀었습니다. 방향벡터 8개를 생각했는데 풀이를 참고하니 그렇게 안해도 됐었고, bfs가 더 이해하기가 쉬워서 bfs로 푼 코드를 보고 이해하고 넘어갔습니다. 저에겐 너무 어려운 문제였습니다.
