@@ -274,3 +274,12 @@
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/2644-%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0.py)
 
 - 풀이 및 느낀점 : 부모노드 방문하면서 +1 하여 visited에 담아주면 되는 문제입니다. 요즘 알고리즘이 잘 풀리지가 않습니다. 더 생각해서 풀고싶은데 시간이 좀 걸리면 해야할게 많아서 해설을 봅니다. 항상 풀 수 있는거였는데 조금만 더 생각해볼걸이란 생각을 합니다. 뭔가 할게 많아 압박감으로 인해 잡생각이 많은 상태로 문제를 풀어서 그런 것 같습니다. 조금 마음의 여유를 가지고 임해야겠습니다.
+
+## 22.05.30
+
+### BOJ 2178 - 미로 탐색
+- 문제 : https://www.acmicpc.net/problem/2178
+
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/2178-%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89.py)
+
+- 풀이 및 느낀점 : 오늘은 할게 있어서 복습문제로 풀었습니다. BFS 기본문제 입니다. 돌면서 방문했을 때 값을 1씩 올려줘서 matrix[n-1][m-1]의 값을 구하면 됩니다.
