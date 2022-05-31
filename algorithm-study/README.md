@@ -283,3 +283,13 @@
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/2178-%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89.py)
 
 - 풀이 및 느낀점 : 오늘은 할게 있어서 복습문제로 풀었습니다. BFS 기본문제 입니다. 돌면서 방문했을 때 값을 1씩 올려줘서 matrix[n-1][m-1]의 값을 구하면 됩니다.
+
+## 22.05.31
+
+### BOJ 7562 - 나이트의 이동
+
+- 문제 : https://www.acmicpc.net/problem/7562
+
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/7562-%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%9D%B4%EB%8F%99.py)
+
+- 풀이 및 느낀점 : 방향 벡터를 나이트의 방향에 맞게 8개를 주고 시작점부터 bfs 돌려서 q에서 pop한 좌표랑 목표좌표가 같게 되면 그 좌표에 있는 값을 리턴하여 출력하면 됩니다. 좌표 값은 0부터 시작해서 다음 좌표로 갈때마다 1씩 더해주면 됩니다. 그럼 목표좌표에 있는 값은 몇번만에 왔는지에 대한 값입니다.
