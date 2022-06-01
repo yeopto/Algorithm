@@ -293,3 +293,13 @@
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/7562-%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%9D%B4%EB%8F%99.py)
 
 - 풀이 및 느낀점 : 방향 벡터를 나이트의 방향에 맞게 8개를 주고 시작점부터 bfs 돌려서 q에서 pop한 좌표랑 목표좌표가 같게 되면 그 좌표에 있는 값을 리턴하여 출력하면 됩니다. 좌표 값은 0부터 시작해서 다음 좌표로 갈때마다 1씩 더해주면 됩니다. 그럼 목표좌표에 있는 값은 몇번만에 왔는지에 대한 값입니다.
+
+## 22.06.01
+
+### BOJ 7576 - 토마토
+
+- 문제 : https://www.acmicpc.net/problem/7576
+
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/7576-%ED%86%A0%EB%A7%88%ED%86%A0.py)
+
+- 풀이 및 느낀점 : bfs 탐색을 마쳤는데 좌표의 값이 0이면 있다면 모두가 익지 않았다는 것이니 -1을 출력하고 좌표를 돌아 최댓값을 출력하면 됩니다. 만약 모두 익어 있다면 모든 좌표의 최대값은 1일테니 결국 res는 1일테고 res-1 을 하면 0이 나옵니다. bfs 감이 잡히고 있는 중입니다.
