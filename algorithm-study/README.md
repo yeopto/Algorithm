@@ -330,4 +330,6 @@
 
 - 문제 : https://www.acmicpc.net/problem/2579
 
-- [소스코드]()
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/2579-%EA%B3%84%EB%8B%A8%20%EC%98%A4%EB%A5%B4%EA%B8%B0.py)
+
+- 풀이 및 느낀점 : 4주차때 풀었던 문제를 복습했습니다. 다행히 접근방법이 기억이 났습니다. 뭔가 외워서 푸는듯한 기분이 들었습니다. 좀 더 많은 문제를 접해봐야겠습니다.
