@@ -323,3 +323,11 @@
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/1463-1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
 
 - 풀이 및 느낀점 : 4주차에 DP할때도 정말 어려웠는데 여전히 어려웠습니다. 점화식도 점화식인데 dp테이블이 무엇을 의미하는지 정의하는게 정말 어려운 것 같습니다. 이번주에 dp문제가 몇개 있는데 좀 익숙해질 필요가 있을거 같습니다. 오늘은 친구한테 풀이를 들었습니다.
+
+## 22.06.05
+
+### BOJ 2579 - 계단 오르기
+
+- 문제 : https://www.acmicpc.net/problem/2579
+
+- [소스코드]()
