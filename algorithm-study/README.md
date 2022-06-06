@@ -333,3 +333,13 @@
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/2579-%EA%B3%84%EB%8B%A8%20%EC%98%A4%EB%A5%B4%EA%B8%B0.py)
 
 - 풀이 및 느낀점 : 4주차때 풀었던 문제를 복습했습니다. 다행히 접근방법이 기억이 났습니다. 뭔가 외워서 푸는듯한 기분이 들었습니다. 좀 더 많은 문제를 접해봐야겠습니다.
+
+## 22.06.06
+
+### BOJ 1003 - 피보나치 함수
+
+- 문제 : https://www.acmicpc.net/problem/1003
+
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/1003-%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%ED%95%A8%EC%88%98.py)
+
+- 풀이 및 느낀점 : dp는 정말 어렵습니다. 규칙이 눈에 안보입니다. 왜 내 눈에는 안보이는지.. 한 2주간은 dp를 또 해야할거같습니다. 풀이를 봐도 어렵네.. 화이팅
