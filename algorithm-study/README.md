@@ -343,3 +343,13 @@
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/1003-%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%ED%95%A8%EC%88%98.py)
 
 - 풀이 및 느낀점 : dp는 정말 어렵습니다. 규칙이 눈에 안보입니다. 왜 내 눈에는 안보이는지.. 한 2주간은 dp를 또 해야할거같습니다. 풀이를 봐도 어렵네.. 화이팅
+
+## 22.06.07
+
+### BOJ 1931 - 회의실 배정
+
+- 문제 : https://www.acmicpc.net/problem/1931
+
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/1931-%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py)
+
+- 풀이 및 느낀점 : 그리디 이것도 4주차에 했었습니다. 어느정도 기억에 남아서 끝나는 시간 순으로 정렬하는게 최적의 해라는 생각을 했습니다. 리스트를 정렬하고 answer라는 리스트 하나 더 만들어서 조건 만족하는 원소들만 answer에 넣어서 answer 길이를 출력하려했는데 복잡할거같았고 예전처럼 count 변수하나만들어서 리스트 돌면서 조건만족하면 count 하나씩 늘려주고 count 출력했습니다. 이번주 문제를 class3에서 standard 위주로 뽑았는데 4주차 복습하는 것 같습니다. 담주에 유형을 가져가면서 새로운 문제를 풀어봐야겠습니다.
