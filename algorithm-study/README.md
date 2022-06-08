@@ -358,6 +358,8 @@
 
 ### BOJ 1927 - 최소 힙, BOJ 1920 - 수 찾기
 
-- 문제 : 최소힙(https://www.acmicpc.net/problem/1927), 수 찾기(https://www.acmicpc.net/problem/1920)
+- 문제 : 최소 힙(https://www.acmicpc.net/problem/1927), 수 찾기(https://www.acmicpc.net/problem/1920)
 
-- [최소 힙 소스코드](), [수 찾기 소스코드]()
+- [최소 힙 소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/1927-%EC%B5%9C%EC%86%8C%20%ED%9E%99.py), [수 찾기 소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/1920-%EC%88%98%20%EC%B0%BE%EA%B8%B0.py)
+
+- 풀이 및 느낀점 : 최소 힙은 heapq를 써서 풀면 되겠다싶어 금방 풀었습니다. 시간 남아서 이분탐색 한번 복습이나 해볼까 하고 풀었습니다. 인덱스 에러는 len(A)로 해야하는데 len(target)으로 해서 하하. 헷갈렸습니다. 문득 오늘 문자열, 구현, 시뮬레이션을 풀어보고 싶단 생각이 들었는데 담주부터 어떻게 될진 모르겠습니다.
