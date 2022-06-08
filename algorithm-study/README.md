@@ -353,3 +353,11 @@
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/1931-%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py)
 
 - 풀이 및 느낀점 : 그리디 이것도 4주차에 했었습니다. 어느정도 기억에 남아서 끝나는 시간 순으로 정렬하는게 최적의 해라는 생각을 했습니다. 리스트를 정렬하고 answer라는 리스트 하나 더 만들어서 조건 만족하는 원소들만 answer에 넣어서 answer 길이를 출력하려했는데 복잡할거같았고 예전처럼 count 변수하나만들어서 리스트 돌면서 조건만족하면 count 하나씩 늘려주고 count 출력했습니다. 이번주 문제를 class3에서 standard 위주로 뽑았는데 4주차 복습하는 것 같습니다. 담주에 유형을 가져가면서 새로운 문제를 풀어봐야겠습니다.
+
+## 22.06.08
+
+### BOJ 1927 - 최소 힙, BOJ 1920 - 수 찾기
+
+- 문제 : 최소힙(https://www.acmicpc.net/problem/1927), 수 찾기(https://www.acmicpc.net/problem/1920)
+
+- [최소 힙 소스코드](), [수 찾기 소스코드]()
