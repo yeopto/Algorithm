@@ -363,3 +363,13 @@
 - [최소 힙 소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/1927-%EC%B5%9C%EC%86%8C%20%ED%9E%99.py), [수 찾기 소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/1920-%EC%88%98%20%EC%B0%BE%EA%B8%B0.py)
 
 - 풀이 및 느낀점 : 최소 힙은 heapq를 써서 풀면 되겠다싶어 금방 풀었습니다. 시간 남아서 이분탐색 한번 복습이나 해볼까 하고 풀었습니다. 인덱스 에러는 len(A)로 해야하는데 len(target)으로 해서 하하. 헷갈렸습니다. 문득 오늘 문자열, 구현, 시뮬레이션을 풀어보고 싶단 생각이 들었는데 담주부터 어떻게 될진 모르겠습니다.
+
+## 22.06.09
+
+### BOJ 11279 - 최대 힙
+
+- 문제 : https://www.acmicpc.net/problem/11279
+
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/11279-%EC%B5%9C%EB%8C%80%ED%9E%99.py)
+
+- 풀이 및 느낀점 : 최소 힙 원리를 이용해서 push할때 (-x, x) 이렇게 넣어주면 작은 수 순으로 정렬되니까 pop하고 x를 출력하면 결국 최대 값을 뽑을 수 있습니다. 다음 주부터는 문자열, 구현, 시뮬레이션을 위주로 문제를 구성해봐야겠습니다.
