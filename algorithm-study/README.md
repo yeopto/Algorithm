@@ -373,3 +373,13 @@
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/11279-%EC%B5%9C%EB%8C%80%ED%9E%99.py)
 
 - 풀이 및 느낀점 : 최소 힙 원리를 이용해서 push할때 (-x, x) 이렇게 넣어주면 작은 수 순으로 정렬되니까 pop하고 x를 출력하면 결국 최대 값을 뽑을 수 있습니다. 다음 주부터는 문자열, 구현, 시뮬레이션을 위주로 문제를 구성해봐야겠습니다.
+
+## 22.06.10
+
+### programmers - 불량 사용자
+
+- 문제 : https://programmers.co.kr/learn/courses/30/lessons/64064
+
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/programmers-%EB%B6%88%EB%9F%89%20%EC%82%AC%EC%9A%A9%EC%9E%90.py)
+
+- 풀이 및 느낀점 : 못 풀었습니다 check까지 접근하긴했는데 맞는지도 모르겠음 시간이 너무 없어서 시간 날 때 꼭 다시 봐야겠습니다.
