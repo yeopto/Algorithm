@@ -376,10 +376,10 @@
 
 ## 22.06.10
 
-### programmers - 불량 사용자
+### programmers - 불량 사용자(해결 x)
 
 - 문제 : https://programmers.co.kr/learn/courses/30/lessons/64064
 
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/programmers-%EB%B6%88%EB%9F%89%20%EC%82%AC%EC%9A%A9%EC%9E%90.py)
 
-- 풀이 및 느낀점 : 못 풀었습니다 check까지 접근하긴했는데 맞는지도 모르겠음 시간이 너무 없어서 시간 날 때 꼭 다시 봐야겠습니다.
+- 풀이 및 느낀점 : 못 풀었습니다. check까지 접근하긴했는데 맞는지도 모르겠음. pintos로 인해 시간이 너무 없어서 시간 날 때 꼭 다시 봐야겠습니다.
