@@ -383,3 +383,13 @@
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/programmers-%EB%B6%88%EB%9F%89%20%EC%82%AC%EC%9A%A9%EC%9E%90.py)
 
 - 풀이 및 느낀점 : 못 풀었습니다. check까지 접근하긴했는데 맞는지도 모르겠음. pintos로 인해 시간이 너무 없어서 시간 날 때 꼭 다시 봐야겠습니다.
+
+## 22.06.11
+
+### BOJ 4949 - 균형잡힌 세상
+
+- 문제 : https://www.acmicpc.net/problem/4949
+
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/4949-%EA%B7%A0%ED%98%95%EC%9E%A1%ED%9E%8C%20%EC%84%B8%EC%83%81.py)
+
+- 풀이 및 느낀점 : 2주차에 했던 괄호와 같은 유형의 문제입니다. 스택을 활용하면 되는 문제입니다. 다만 while true에서 '.'일때 break걸어줬는데 input에 rstrip 안해줘서 '.\n' 으로 들어가서 무한반복이었습니다. 요것처리하는거 말고 어려운 것 없었습니다.
