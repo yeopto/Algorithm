@@ -393,3 +393,13 @@
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/4949-%EA%B7%A0%ED%98%95%EC%9E%A1%ED%9E%8C%20%EC%84%B8%EC%83%81.py)
 
 - 풀이 및 느낀점 : 2주차에 했던 괄호와 같은 유형의 문제입니다. 스택을 활용하면 되는 문제입니다. 다만 while true에서 '.'일때 break걸어줬는데 input에 rstrip 안해줘서 '.\n' 으로 들어가서 무한반복이었습니다. 요것처리하는거 말고 어려운 것 없었습니다.
+
+## 22.06.12
+
+### BOJ 1764 - 듣보잡
+
+- 문제 : https://www.acmicpc.net/problem/1764
+
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/1764-%EB%93%A3%EB%B3%B4%EC%9E%A1.py)
+
+- 풀이 및 느낀점 : 완전탐색으로 모두 확인해서 조건에 충족하는 것만 뽑아줬더니 시간초과가 나서 고민을 해보다가 풀이를 봤습니다. set을 이용하여 &연산으로 교집합을 구할 수 있었습니다. 굉장히 신기했습니다. 이런 유형에서 set은 유용할거같습니다. 문자열 문제에서 많이 사용될거같기도 합니다.(아닌가?)
