@@ -403,3 +403,13 @@
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/1764-%EB%93%A3%EB%B3%B4%EC%9E%A1.py)
 
 - 풀이 및 느낀점 : 완전탐색으로 모두 확인해서 조건에 충족하는 것만 뽑아줬더니 시간초과가 나서 고민을 해보다가 풀이를 봤습니다. set을 이용하여 &연산으로 교집합을 구할 수 있었습니다. 굉장히 신기했습니다. 이런 유형에서 set은 유용할거같습니다. 문자열 문제에서 많이 사용될거같기도 합니다.(아닌가?)
+
+## 22.06.13
+
+### BOJ 1259 - 펠린드롬수
+
+- 문제 : https://www.acmicpc.net/problem/1259
+
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/1259-%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%88%98.py)
+
+- 풀이 및 느낀점 : 쉬웠습니다.
