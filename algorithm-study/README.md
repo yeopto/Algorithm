@@ -413,3 +413,13 @@
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/1259-%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%88%98.py)
 
 - 풀이 및 느낀점 : 쉬웠습니다.
+
+## 22.06.14
+
+### BOJ 1100 - 하얀 칸
+
+- 문제 : https://www.acmicpc.net/problem/1100
+
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/1100-%ED%95%98%EC%96%80%EC%B9%B8.py)
+
+- 풀이 및 느낀점 : 제가 푼 방식은 체스 판의 색은 고정적일테니까 8x8크기의 리스트에 색을 직접 정해줬습니다. 그리고 칸의 색이 0일 때 'F'가 있는 경우는 count를 늘려줬습니다. 혹시 다른 사람들은 어떻게 풀었나 싶어서 참고 해봤더니 (i + j) % 2 가 0 이면 하얀 칸이고 하얀 칸이면서 'F' 일때 count를 해주었습니다. 식이 간단해서 코드가 더 간결했습니다. 오늘도 역시 쉬웠고, 문제를 제대로 골라야겠다고 생각했습니다. 
