@@ -453,3 +453,13 @@
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/programmers-%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.py)
 
 - 풀이 및 느낀점 : 오늘은 조원 회식으로 인해 조원들끼리 프로그래머스 lv1 문제를 풀어봤습니다. lv1이라 괜찮았던 문제입니다. 이제부터는 프로그래머스도 조금씩 풀어봐야겠습니다.
+
+## 22.06.18
+
+### programmers - 신고 결과 받기
+
+- 문제 : https://programmers.co.kr/learn/courses/30/lessons/92334
+
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/programmers-%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0.py)
+
+- 풀이 및 느낀점 : 이 문제를 풀면서 문자열로 정보 찾을때는 딕셔너리 활용을 잘 해야겠다는 생각이 들었습니다. 그냥 리스트로 접근하려하다보니 너무 복잡했습니다. 딕셔너리를 써서 key값을 잘 활용한다면 이런 유형의 문제를 보다 쉽게 해결할 수 있겠다고 느꼈습니다. 이제 이런 유형이 나올땐 딕셔너리부터 생각할거 같고, 잘 활용하기위해 익숙해져야겠습니다.
