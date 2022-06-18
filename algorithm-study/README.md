@@ -443,3 +443,13 @@
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/5430-AC.py)
 
 - 풀이 및 느낀점 : 문제가 어렵지는 않은데 굉장히 조건이 까다로운 문제였습니다. 시간초과가 자꾸났는데 그 이유가 D일때마다 reverse를 매번 해줘서 시간초과였습니다. 풀이를 참고했는데 R에 flag를 세워서 flag 홀수면 pop을 짝수면 popleft를 해줍니다. 그리고 출력할땐 reverse 한번만 해서 출력하면 시간을 줄일 수 있었고, 입력을 괄호까지 받아서 처음엔 매번 다 확인해줘서 '[', ']', ',' 일땐 continue 해주고 나머지를 배열에 담아주는 식으로 했는데 슬라이싱을 이용해서 1부터 -1까지만 split ',' 쪼개서 받아줬습니다. 그러니 통과했습니다. 굉장히 귀찮은 문제였습니다.
+
+## 22.06.17
+
+### programmers - 나머지가 1이되는 수 찾기
+
+- 문제 : https://programmers.co.kr/learn/courses/30/lessons/87389
+
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/programmers-%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.py)
+
+- 풀이 및 느낀점 : 오늘은 조원 회식으로 인해 조원들끼리 프로그래머스 lv1 문제를 풀어봤습니다. lv1이라 괜찮았던 문제입니다. 이제부터는 프로그래머스도 조금씩 풀어봐야겠습니다.
