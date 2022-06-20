@@ -473,3 +473,13 @@
 - [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/1389-%EC%BC%80%EB%B9%88%20%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%206%EB%8B%A8%EA%B3%84%20%EB%B2%95%EC%B9%99.py)
 
 - 풀이 및 느낀점 : 2주 안했다고 감이 떨어지는걸 보고 한숨만 나왔습니다. 하지만 얼마전에 풀었던 그래프 문제 한번 복습하고 하다보니 금방 감을 찾을 수 있었습니다. bfs문제였고 각 노드를 시작점을 하여 노드와 노드 사이의 간선갯수를 저장하며 탐색을 합니다. 시작 노드부터 다른 노드들 까지의 필요한 간선의 갯수들을 다 더해서 어떤 시작 노드가 더한 값이 최소가 나오는지 찾는 문제입니다. 이번주는 안풀어본 dfs/bfs를 풀어볼 예정입니다.
+
+## 22.06.20
+
+### programmers - 프린터
+
+- 문제 : https://programmers.co.kr/learn/courses/30/lessons/42587
+
+- [소스코드](https://github.com/yeopto/Algorithm/blob/master/algorithm-study/programmers-%ED%94%84%EB%A6%B0%ED%84%B0.py)
+
+- 풀이 및 느낀점 : deque를 쓰는 문제였습니다. pop을 하게되면 location은 1씩 줄어들게 되어있습니다. pop한 원소가 우선순위를 만족하지 않아 프린트되지 않는다면 location만 한 칸 앞으로 갑니다. 우선순위를 만족해 프린트 해야한다면 location를 줄여주고 answer(출력한 횟수)를 늘려줍니다. location이 0이될때 answer + 1로 문제에서 말한 location인덱스가 몇번째로 출력되는지를 알 수 있습니다. location이 1씩 줄어든다는걸 생각하지 못했습니다. 어찌보면 당연한건데.. 이걸 생각해냈다면 풀 수 있었던 문젠데 못 풀어서 많이 아쉬운 문제입니다. 
