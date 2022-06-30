@@ -2,19 +2,30 @@ const fs = require('fs');
 const filePath = process.platform === 'linux' ? '/dev/stdin' : './input.txt'
 let input = fs.readFileSync(filePath).toString().split('\n');
 
-let lStack = input[0].split('');
-let rStack = [];
-let n = +input[1];
+let [n, m] = input[0].split(' ').map(Number);
+let arr = input[1].split(' ').map(Number);
+let answer = 0;
 
-for (let i = 2; i < 2 + n; i++) {
-    let [cmd, value] = input[i].split(' ');
-    if (cmd === 'L' && lStack.length) rStack.push(lStack.pop());
-    else if (cmd === 'D' && rStack.length) lStack.push(rStack.pop());
-    else if (cmd === 'B') lStack.pop();
-    else if (cmd === 'P') lStack.push(value);
+function getCombination(arr, num) {
+    let result = [];
+    if (num === 1) return arr.map(el => [el]);
+
+    arr.forEach((fixed, index, origin) => {
+        let rest = origin.slice(index + 1);
+        let combinations = getCombination(rest, num - 1);
+        let attatched = combinations.map(combination => [fixed, ...combination]);
+        result.push(...attatched);
+    });
+
+    return result;
 }
 
-let answer = lStack.join('');
-answer += rStack.reverse().join('');
+getCombination(arr, 3).forEach(element => {
+    let sum = element[0] + element[1] + element[2];
+    let gap = m - sum;
+    if (gap >= 0 && answer <= sum) {
+        answer = sum;
+    }
+});
 
 console.log(answer);
