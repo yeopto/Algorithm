@@ -21,5 +21,5 @@ function solution(n, vertex) {
   }
   const max = Math.max(...visited);
   
-  return max
+  return visited.filter(el => el === max).length;
 }
