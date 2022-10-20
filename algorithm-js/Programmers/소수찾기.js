@@ -1,11 +1,12 @@
 function solution(n) {
-  let arr = Array(n + 1).fill(true).fill(false, 0, 2);
+  let prime = [false, false, ...Array(n - 1).fill(true)];
   for(let i = 2; i * i <= n; i++) {
-    if(arr[i]) {
-      for(let j = i * i; j <= n; j += i) {
-        arr[j] = false;
+      if(prime[i]) {
+          for(let j = i * 2; j <= n; j += i) {
+              prime[j] = false;
+          }
       }
-    }
   }
-  return arr.filter(el => el).length;
+  
+  return prime.filter(Boolean).length;
 }
